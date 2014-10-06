@@ -1,4 +1,4 @@
 chords
 ======
 
-Mini guitar chords web tutorial in PHP, using JSON
+Mini web guitar chords tutorial in PHP, using JSON
